@@ -11,7 +11,6 @@ Dijkstra Algorithm given obstacle space
 |  ├── dijkstra.py
 |  ├── Priority_queue.py
 ├── Map
-|  ├── map.png
 |  ├── display_map.png
 ├── Results
 |  |  ├── result.mp4
@@ -28,15 +27,15 @@ $ cd Motion-Planning-of-a-Point-Robot-using-Dijkstra-Algorithm
 $ python3 dijkstra.py
 ```
 
-
+```
 --> This will open up the map.
---> Please select two points from the map
---> Starting position and the goal position
+--> Please select two points from the map using your mouse 
+--> Starting position and the goal position 
 --> If you have selected a position which is inside the obstacle space, 
 --> then it will raise an error
 --> Please select a different position
-
-
+```
+![](https://github.com/karanamrahul/Motion-Planning-of-a-Point-Robot-using-Dijkstra-Algorithm/blob/main/map/display_map.png)
 
 
 --> After the selection, the map will pop up showing the 
