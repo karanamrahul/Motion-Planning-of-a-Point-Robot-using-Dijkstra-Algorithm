@@ -14,6 +14,8 @@ Dijkstra Algorithm given obstacle space
 |  ├── display_map.png
 ├── Results
 |  |  ├── result.mp4
+|  |  ├── result.gif
+
 ```
 The map can be found in the /Map/map.png
 
@@ -42,7 +44,7 @@ $ python3 dijkstra.py
     exploration path, when the robot reaches the goal point
     , it will show you the best path.
 
-
+![](https://github.com/karanamrahul/Motion-Planning-of-a-Point-Robot-using-Dijkstra-Algorithm/blob/main/results/result.gif)
 --> The video can be found in the /results directory.
     
        
