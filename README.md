@@ -22,6 +22,13 @@ The map can be found in the /Map/map.png
 Steps to Run the code 
 -> Make sure you have Priority_queue.py file and dijsktra.py in your repository
 
+### Packages used for this project
+```
+heapq
+numpy
+opencv
+matplotlib
+```
 
 ```
 $ git clone https://github.com/karanamrahul/Motion-Planning-of-a-Point-Robot-using-Dijkstra-Algorithm.git
