@@ -37,14 +37,17 @@ $ python3 Astar.py
 --> then it will raise an error
 --> Please select a different position
 ```
-![](https://github.com/karanamrahul/Motion-Planning-of-a-Point-Robot-using-Dijkstra-Algorithm/blob/main/map/fig.png)
+
+### Test case - 1
+![](https://github.com/karanamrahul/Motion-Planning-of-a-Point-Robot-using-Dijkstra-and-Astar-Algorithm/blob/main/a-star/results/test_1.jpg)
 
 
 --> After the selection, the map will pop up showing the 
     exploration path, when the robot reaches the goal point
     , it will show you the best path.
+### Test Case - 2
 
-![](https://github.com/karanamrahul/Motion-Planning-of-a-Point-Robot-using-Dijkstra-Algorithm/blob/main/results/result.gif)
+![](https://github.com/karanamrahul/Motion-Planning-of-a-Point-Robot-using-Dijkstra-and-Astar-Algorithm/blob/main/a-star/results/fig.jpg)
 --> The video can be found in the /results directory.
     
        
