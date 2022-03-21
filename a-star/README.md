@@ -3,8 +3,7 @@
 
 Github Repository : https://github.com/karanamrahul/Motion-Planning-of-a-Point-Robot-using-Dijkstra-and-Astar-Algorithm
 
-This project mainly implements the path planning of a point robot using
-Dijkstra Algorithm given obstacle space
+This project mainly implements the path planning of a point robot using A-star Algorithm given obstacle space
 
 ## File Structure
 
