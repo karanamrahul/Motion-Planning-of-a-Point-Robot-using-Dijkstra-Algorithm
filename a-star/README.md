@@ -40,14 +40,23 @@ $ python3 Astar.py
 ### Test case - 1
 ![](https://github.com/karanamrahul/Motion-Planning-of-a-Point-Robot-using-Dijkstra-and-Astar-Algorithm/blob/main/a-star/results/test_1.jpg)
 
+![](https://github.com/karanamrahul/Motion-Planning-of-a-Point-Robot-using-Dijkstra-and-Astar-Algorithm/blob/main/a-star/results/test_1_output.gif)
+
 
 --> After the selection, the map will pop up showing the 
     exploration path, when the robot reaches the goal point
     , it will show you the best path.
+    
+    
 ### Test Case - 2
 
 ![](https://github.com/karanamrahul/Motion-Planning-of-a-Point-Robot-using-Dijkstra-and-Astar-Algorithm/blob/main/a-star/results/fig.jpg)
+
+![](https://github.com/karanamrahul/Motion-Planning-of-a-Point-Robot-using-Dijkstra-and-Astar-Algorithm/blob/main/a-star/results/1.gif)
+
 --> The video can be found in the /results directory.
+
+
     
        
 
